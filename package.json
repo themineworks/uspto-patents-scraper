@@ -1,0 +1,15 @@
+{
+  "name": "uspto-patents-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "US patent applications & grants via the official Open Data Portal. Python, Node.js and cURL clients for the USPTO Patents Scraper on Apify, pay per result.",
+  "main": "uspto_patents_scraper.mjs",
+  "scripts": {
+    "start": "node uspto_patents_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/uspto-patents/"
+}
